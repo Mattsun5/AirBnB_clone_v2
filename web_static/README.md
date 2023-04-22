@@ -1,1 +1,1 @@
-This directory implements webpage design.
+Introduction to Basic HTML and CSS 
